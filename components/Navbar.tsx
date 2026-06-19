@@ -4,6 +4,7 @@ import { site } from "@/lib/site";
 const links = [
   { href: "/privacy-policy", label: "Privacy" },
   { href: "/terms-of-service", label: "Terms" },
+  { href: "/eula", label: "EULA" },
   { href: "/data-deletion", label: "Data Deletion" },
   { href: "/support", label: "Support" },
 ];

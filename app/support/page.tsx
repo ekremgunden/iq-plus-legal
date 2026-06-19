@@ -69,6 +69,9 @@ export default function Support() {
           <a href="/terms-of-service">Terms of Service</a>
         </li>
         <li>
+          <a href="/eula">End User License Agreement (EULA)</a>
+        </li>
+        <li>
           <a href="/data-deletion">Data Deletion</a>
         </li>
       </ul>

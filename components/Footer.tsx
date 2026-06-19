@@ -31,6 +31,11 @@ export default function Footer() {
                   </Link>
                 </li>
                 <li>
+                  <Link href="/eula" className="hover:text-white">
+                    EULA
+                  </Link>
+                </li>
+                <li>
                   <Link href="/data-deletion" className="hover:text-white">
                     Data Deletion
                   </Link>
